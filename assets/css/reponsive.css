@@ -5,7 +5,7 @@
     }
    
     #footer .social-list a {
-        margin: 0 8px;
+        margin: 0 6px;
     }
     .place-buy-btn,.form-submit-btn{
         padding:15px 16px;
@@ -21,7 +21,7 @@
         line-height: 2;
     }
     #footer .social-list {
-        font-size: 48px;
+        font-size: 4.8rem;
     }
     #footer .copyright a{
         padding:12px 0;
